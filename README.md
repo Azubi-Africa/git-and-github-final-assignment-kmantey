@@ -22,7 +22,7 @@ The below table must contain the details of the repositories you will create, fi
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  caesar-cipher-             |  decryption python program             | https://github.com/kmantey/caesar-cipher-.git      |
 | 2 |  - sales-and-operations            |  - python programme to handle sales and operations            | https://github.com/kmantey/sales-and-operations.git      |
-| 3 |  -             |  -             | https://       |
+| 3 |  product-sale             | python program for product sale          | https://github.com/kmantey/product-sale.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
